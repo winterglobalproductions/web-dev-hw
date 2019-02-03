@@ -1,0 +1,9 @@
+My Responses
+
+Bits of 1 and 0 sent through electricity, light and radio waves.
+
+The IP address is the address where the information bits are going or coming from, the physical computers address.  DNS
+
+It’s an identification number that lets a webpage find you quicker when you go to log in again.
+
+Protocol, Domain name and Path.
