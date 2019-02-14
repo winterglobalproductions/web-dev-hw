@@ -8,4 +8,4 @@ https://hoffmanbikes.com/
 14.  It takes a lot of steps to get used to, though not much has changed in the past 20 years with the base root of HTML code.  Some things are easier some are more challenging and complicated.  
 
 
-15.  ![Image of Poet](Images/Poetry-109.JPG)
+15.  ![Image of Poet](Images/Poem.png)
