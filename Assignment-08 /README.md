@@ -1,6 +1,6 @@
-questions
 
+13.  I took HTML 18 years ago and not really much has changed with the original HTML but now there are other forms of HTML such as HTML5 and things can be enhanced with CSS.  The general form of the pages where much simpler.  Everything moves towards more complexity.  
 
-13.  divs, classes, ids, spans  and div divides the material up into blocks for the viewer to more easily see the document.  A span is an inline element that can be used to enhance text such as highlighting text. An ID is a specific element number or attribute given from a list to making the document more unique.  
-14.  alt text literally means alternative text that can pop up in case the image is not loading the viewer can know what it is supposed to be.   
-15.  I got completely lost in this assignment and had to go back to the directions more than 30 times to figure out the differences between all the terminologies.  I worked in the atom but something was going wrong with my code and I had to reread many many times to find out what went wrong.  
+14.  I'm not at all familiar with CSS so I don't know what to expect or what I will learn.  
+
+15.  I used a preexisting assignment directory so that I didn't have to retype all the HTML code for three different pages.  I made three separate pages and linked them together with an href to be able to go to each page.  I saved the assignment and pushed it to the web-dev.  
