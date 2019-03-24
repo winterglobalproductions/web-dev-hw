@@ -1,0 +1,57 @@
+HTML CSS 
+
+Result
+
+EDIT ON
+
+/* Select the main container 'div' element */
+.main-container {
+/* Draw a lime green border 2px thick. */
+border-style: solid;
+border-width: 2px;
+border-color: limegreen;
+/*Add space between the boarder and its inside elements. */
+padding: 10px;
+/* Color the background dark grey. */
+background: #373E42;
+}
+
+/* Select all h1 elements. */
+h1 {
+/* Draw an orange border 2px thick around ONLY the h1 element. */
+border-style: solid;
+border-width: 2px;
+border-color: orange;
+/* Set a unique background color. */
+background: #f1f1f1;
+}
+
+/* Select ALL paragraph elements. */
+p {
+border-style: solid;
+border-width: 2px;
+border-color: gold;
+background: #f1f1f1;
+}
+
+/* Select the strong AND emphasized elements. */
+strong, em {
+border-style: solid;
+border-width: 2px;
+border-color: tomato;
+}
+
+/* Select ONLY the emphasized elements. */
+em {
+color: tomato;
+}
+
+hr {
+margin: 30px 0;
+}
+
+
+/* Experiement on your own by styling the second div element! */
+.secondary-container {
+
+}
