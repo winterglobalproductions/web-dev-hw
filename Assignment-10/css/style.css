@@ -1,0 +1,55 @@
+HTML CSS
+
+Result
+
+EDIT ON
+
+
+sup, h1, h2, #meat{
+font-family: 'https://fonts.googleapis.com/css?family=Montserrat', serif;
+background-color: red;
+text-align: center;
+}
+
+p, a{
+  background-color: darkmagenta;
+  font-family: 'https://fonts.googleapis.com/css?family=Montserrat', sans-serif;
+  line-height: 24pt;
+
+  font-weight: bold;
+  text-align: left;
+  font-size: 11pt;
+}
+
+a:hover{
+  color: #94ff85;
+}
+
+p::first-letter{
+  font-size: 400%;
+text-decoration: italic;
+background-color: #FFD700;
+}
+
+span{
+    position: relative;
+    left: 1150px;
+}
+
+{
+  background-color: darkgoldenrod;
+  width: auto;
+  height: 650px;
+  margin: auto;
+  padding: 13px;
+  border: 3px solid black;
+}
+
+{
+  background-color: red;
+  width: auto;
+  height: 120px;
+  margin: auto;
+  padding: 13px;
+  border: 3px solid black;
+}
