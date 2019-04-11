@@ -1,8 +1,4 @@
-HTML CSS
 
-Result
-
-EDIT ON
 
 
 sup, h1, h2, #meat{
@@ -27,7 +23,7 @@ a:hover{
 
 p::first-letter{
   font-size: 400%;
-text-decoration: italic;
+
 background-color: #FFD700;
 }
 
@@ -41,8 +37,8 @@ span{
   width: auto;
   height: 650px;
   margin: auto;
-  padding: 13px;
-  border: 3px solid black;
+
+
 }
 
 {

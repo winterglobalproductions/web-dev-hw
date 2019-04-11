@@ -1,5 +1,47 @@
-HTML CSS
+table.GeneratedTable {
+  width: 100%;
+  background-color: #red;
+  border-collapse: collapse;
+  border-width: 5px;
+  border-color: #94ff85;
+  border-style: solid;
+  color: #000000;
+}
 
-Result
+/*This is the yellow table*/
 
-EDIT ON
+table.GeneratedTable td, table.GeneratedTable th {
+  border-width: 5px;
+  border-color: #red;
+  border-style: solid;
+  padding: 3px;
+
+}
+
+table.GeneratedTable thead {
+  background-color: #FFD700;
+}
+
+  nav {
+    background-color: red;
+    text-align: center;
+  }
+  body {
+    background-color: darkmagenta;
+    color: white
+  }
+  h1 {
+     color: red;
+     text-align: center;
+  }
+  h2 { opacity:.95;
+     color: red;
+     text-align: center;
+  }
+  p, ul {
+     color: red;
+  }
+
+  .Dark {color: #FFD700}
+  .Glitter {color: blue;
+    text align: right;}
