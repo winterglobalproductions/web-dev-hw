@@ -1,0 +1,77 @@
+h2 {display: inline;}
+
+
+#my-box {
+  width: 500px;
+  height: 500px;
+  border-width: 100px;
+  padding: 100px;
+  margin: 100px;
+  border-color: grey;
+  border-style: inset;
+}
+
+.parent-container {
+   width: 75%;
+   border: 10px solid #623529;
+   height: 75%;
+   background-color: #f2f2f2;
+   color: black;
+   position: relative;
+   overflow:hidden;
+}
+
+
+.lineone {
+  width: 50px;
+  height: 400px;
+  background-color: black;
+  -ms-transform: rotate(45deg); /* IE 9 */
+      -webkit-transform: rotate(45deg); /* Safari 3-8 */
+              transform: rotate(45deg);
+position:absolute; bottom:-70px; right:30px
+
+
+}
+
+.linetwo {
+  width: 50px;
+  height: 200px;
+  background-color: blue;
+  -ms-transform: rotate(-45deg); /* IE 9 */
+      -webkit-transform: rotate(-45deg); /* Safari 3-8 */
+              transform: rotate(-45deg);
+              position:absolute; bottom:-40px; right:0
+}
+
+
+  .linethree {
+    width: 50px;
+    height: 400px;
+    background-color: green;
+    -ms-transform: rotate(-45deg); /* IE 9 */
+        -webkit-transform: rotate(-45deg); /* Safari 3-8 */
+                transform: rotate(-45deg);
+     position:absolute; top:45px; right:-25
+
+  }
+
+
+
+
+a:hover{
+  color: #94ff85;
+}
+div {
+
+}
+
+
+{
+  background-color: darkgoldenrod;
+  width: auto;
+  height: 650px;
+  margin: auto;
+
+
+}
