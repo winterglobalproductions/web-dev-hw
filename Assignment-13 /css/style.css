@@ -1,0 +1,52 @@
+
+body {
+   background-color: pink;
+   background-image: url('../images/BMX_Slide.jpg');
+   background-repeat: repeat-x;
+   background-attachment: fixed;
+   background-size: cover;
+   }
+   li {
+     border-right: 1px solid #bbb;
+   }
+
+body {
+   margin: 0.25em;
+}
+header {
+    background-color: #d0d0d0;
+    font-family: sans-serif;
+    font-size: 12pt;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding: 0.25em;
+}
+
+.menu-item {
+    margin: auto;
+    padding: 0.25em;
+    min-width: 75px;
+    font-size: 10pt;
+    color: #fff;
+    background-color: goldenrod;
+    line-height: 2.1em;
+}
+
+
+.menu-item:hover {
+    background-color: gold;
+    color: #333;
+}
+
+.dropdown {
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+  position: absolute;
+}
+.dropdown-content li {display:block}
